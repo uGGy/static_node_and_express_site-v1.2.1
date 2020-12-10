@@ -1,0 +1,74 @@
+{ 
+    "projects": [
+            {
+                "id": "0",
+                "project_Name": "Random Quote Generator",
+                "description": "during this projec",
+                "technologies": ["HTML" , "CSS" , "JS"],
+                "live_link": "http",
+                "github_link": "https://github.com/uGGy/Random-Quote-Generator",
+                "image_urls": ["./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG1.png",
+                               "./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG2.png",
+                               "./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG3.png"
+                ]
+    
+            },
+            {
+                "id": "1",
+                "project_Name": "List Pagination Filter",
+                "description": "during this projec",
+                "technologies": ["HTML" , "CSS" , "JS"],
+                "live_link": "http",
+                "github_link": "https://github.com/uGGy/List-Pagination-and-filtering",
+                "image_urls": ["./projects_screenshot/sc_2-List_Pagination_Filter/Screenshot_LPF1.png",
+                               "./projects_screenshot/sc_2-List_Pagination_Filter/Screenshot_LPF2.png"
+                ]
+                    
+            },
+            {
+                "id": "2",
+                "project_Name": "Interactive Form",
+                "description": "during this projec",
+                "technologies": ["HTML" , "CSS" , "JS"],
+                "live_link": "http",
+                "github_link": "https://github.com/uGGy/interactive-form-v2",
+                "image_urls": ["./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF1.png",
+                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF2.png",
+                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF3.png",
+                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF4.png",
+                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF5.png"
+                ]
+                    
+            },
+            {
+                "id": "3",
+                "project_Name": "JS Object Oriented",
+                "description": "during this projec",
+                "technologies": ["HTML" , "CSS" , "JS"],
+                "live_link": "http",
+                "github_link": "https://github.com/uGGy/oop_game-v2",
+                "image_urls": ["./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO1.png",
+                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO2.png",
+                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO3.png",
+                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO4.png",
+                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO5.png"
+                ]
+                    
+            },
+            {
+                "id": "4",
+                "project_Name": "Public API Request",
+                "description": "https://github.com/uGGy/public_api_request-v1",
+                "technologies": ["HTML" , "CSS" , "JS"],
+                "live_link": "http",
+                "github_link": "https://github.com/uGGy/Random-Quote-Generator",
+                "image_urls": ["./projects_screenshots/sc_project_5-API/Screenshot-API1.png",
+                               "./projects_screenshots/sc_project_5-API/Screenshot-API2.png",
+                               "./projects_screenshots/sc_project_5-API/Screenshot-API3.png"
+                ]    
+         }
+            
+    ]
+        
+        
+}
