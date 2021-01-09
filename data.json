@@ -3,68 +3,73 @@
             {
                 "id": "0",
                 "project_Name": "Random Quote Generator",
-                "description": "during this projec",
+                "description": "This app displays random quotes each time a button is clicked.",
                 "technologies": ["HTML" , "CSS" , "JS"],
-                "live_link": "http",
+                "live_link": "https://uggy.github.io/Random-Quote-Generator/",
                 "github_link": "https://github.com/uGGy/Random-Quote-Generator",
-                "image_urls": ["./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG1.png",
-                               "./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG2.png",
-                               "./projects_screenshot/sc_1-Random_Quote_Generator/Screenshot_RQG3.png"
+                "image_urls": ["./images/projects_screenshots/sc_project_1-Random_Quote_Generator/Screenshot_RQG3/Screenshot_RQG1.png",
+                               "./images/projects_screenshots/sc_project_1-Random_Quote_Generator/Screenshot_RQG1.png",
+                               "./images/projects_screenshots/sc_project_1-Random_Quote_Generator/Screenshot_RQG2.png",
+                               "./images/projects_screenshots/sc_project_1-Random_Quote_Generator/Screenshot_RQG3.png"
                 ]
     
             },
             {
                 "id": "1",
                 "project_Name": "List Pagination Filter",
-                "description": "during this projec",
+                "description": "In this project, I used a common web development technique known as 'pagination' to enhance the usability of a web page.",
                 "technologies": ["HTML" , "CSS" , "JS"],
-                "live_link": "http",
+                "live_link": " https://uggy.github.io/List-Pagination-and-filtering/",
                 "github_link": "https://github.com/uGGy/List-Pagination-and-filtering",
-                "image_urls": ["./projects_screenshot/sc_2-List_Pagination_Filter/Screenshot_LPF1.png",
-                               "./projects_screenshot/sc_2-List_Pagination_Filter/Screenshot_LPF2.png"
+                "image_urls": ["./images/projects_screenshots/sc_project_2-List_Pagination_Filter/Screenshot_LPF1/Screenshot_LPF1.png",
+                               "./images/projects_screenshots/sc_project_2-List_Pagination_Filter/Screenshot_LPF1.png",
+                               "./images/projects_screenshots/sc_project_2-List_Pagination_Filter/Screenshot_LPF2.png"
                 ]
                     
             },
             {
                 "id": "2",
                 "project_Name": "Interactive Form",
-                "description": "during this projec",
+                "description": "Here I used JavaScript to enhance an interactive registration form. The user have several choices, some of them get disabled depending of the previous one. RegExp methods are used to make sure that input info is correct. If not, an error message appears.",
                 "technologies": ["HTML" , "CSS" , "JS"],
-                "live_link": "http",
+                "live_link": "https://uggy.github.io/interactive-form-v2/",
                 "github_link": "https://github.com/uGGy/interactive-form-v2",
-                "image_urls": ["./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF1.png",
-                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF2.png",
-                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF3.png",
-                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF4.png",
-                               "./projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF5.png"
+                "image_urls": ["./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF1_550/Screenshot_IF1.png",
+                               "./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF1.png",
+                               "./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF2.png",
+                               "./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF3.png",
+                               "./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF4.png",
+                               "./images/projects_screenshots/sc_project_3-Interactive _Form/Screenshot_IF5.png"
                 ]
                     
             },
             {
                 "id": "3",
-                "project_Name": "JS Object Oriented",
-                "description": "during this projec",
-                "technologies": ["HTML" , "CSS" , "JS"],
-                "live_link": "http",
+                "project_Name": "OOP Game Show App",
+                "description": "In this project, I created a browser-based, word guessing game: 'Phrase Hunter'. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard. A new random phrase is generated each time the game starts.",
+                "technologies": ["HTML" , "CSS" , "JS", "JQuery"],
+                "live_link": "https://uggy.github.io/oop_game-v2/",
                 "github_link": "https://github.com/uGGy/oop_game-v2",
-                "image_urls": ["./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO1.png",
-                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO2.png",
-                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO3.png",
-                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO4.png",
-                               "./projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO5.png"
+                "image_urls": ["./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO1x550/Screenshot-JSOO1.png",
+                               "./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO1.png",
+                               "./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO2.png",
+                               "./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO3.png",
+                               "./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO4.png",
+                               "./images/projects_screenshots/sc_project_4-JS_Object_Oriented/Screenshot-JSOO5.png"
                 ]
                     
             },
             {
                 "id": "4",
-                "project_Name": "Public API Request",
-                "description": "https://github.com/uGGy/public_api_request-v1",
-                "technologies": ["HTML" , "CSS" , "JS"],
-                "live_link": "http",
-                "github_link": "https://github.com/uGGy/Random-Quote-Generator",
-                "image_urls": ["./projects_screenshots/sc_project_5-API/Screenshot-API1.png",
-                               "./projects_screenshots/sc_project_5-API/Screenshot-API2.png",
-                               "./projects_screenshots/sc_project_5-API/Screenshot-API3.png"
+                "project_Name": "Public API Requests",
+                "description": "For this project, I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used the Random User Generator API to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.",
+                "technologies": ["HTML" , "CSS" , "JS", "JQuery", "JSON"],
+                "live_link": "https://uggy.github.io/public_api_request-v1/",
+                "github_link": "https://github.com/uGGy/public_api_request-v1",
+                "image_urls": ["./images/projects_screenshots/sc_project_5-API/Screenshot-API3x550/Screenshot-API1.png",
+                               "./images/projects_screenshots/sc_project_5-API/Screenshot-API1.png",
+                               "./images/projects_screenshots/sc_project_5-API/Screenshot-API2.png",
+                               "./images/projects_screenshots/sc_project_5-API/Screenshot-API3.png"
                 ]    
          }
             

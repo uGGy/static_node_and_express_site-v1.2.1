@@ -7,27 +7,32 @@ block content
     .grid-x
       .cell.small-6.medium-9.large-9
 
-        //- Use interpolation to dynamically add the project title.
-        h1 Title
+        //- Project Title
+        h1 #{title}
 
-        //- Use interpolation to dynamically add the project description.
+        //- Project description
         p.lead.text-light
-          | Description
+          | #{description}
+        
 
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
 
-        //- Use an `each` iterator to replace the li tags below and interpolation to dynamically add the technologies used in each project.
-        ul
-          li HTML
-          li CSS
-          li JavaScript
+        //-  List of technologies
+        each t in technologies
+          li= t
 
-        //- Use template literals and interpolation to add URLs to the hrefs below so they link to the repo and the live version of each project.
-        a.button.expanded(href='') Live Demo
-        a.button.expanded(href='') GitHub Repo
+        br
+        //- Projects Links
+        a.button.expanded(href=`${gitLinkDemo}` target='_blank') Live Demo
+        a.button.expanded(href=`${gitRepoPath}` target='_blank') GitHub Repo
     
-    //- Replace the URLs in the src attributes below with template literals and interpolation to dynamically add three project images.  You only have to add one image.  But adding more images to show your app in different states demonstrates a level of thoroughness and professionalism that potential employers will like to see. 
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
+    //- Project Images 
+    img.image(src=`/static/${img[1]}`)
+    img.image(src=`/static/${img[2]}`)
+    if img[3]
+      img.image(src=`/static/${img[3]}`)
+    if img[4]
+      img.image(src=`/static/${img[4]}`)
+    if img[5]
+      img.image(src=`/static/${img[5]}`)
